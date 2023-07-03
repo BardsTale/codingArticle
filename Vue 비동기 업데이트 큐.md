@@ -1,8 +1,8 @@
-### 뷰의 비동기 업데이트 큐(Async update queue)에 대해서 원본 가이드를 번역 및 개인 의견을 가미하여 작성한 글 입니다.
+### Vue의 비동기 업데이트 큐(Async update queue)에 대해서 원본 가이드를 번역 및 개인 의견을 가미하여 작성한 글 입니다.
 #### 원본 링크 : https://dev.to/codeoz/vue-academy-6-async-update-queue-56k
 <br>
 
-## 뷰 비동기 업데이트 큐(Async update queue)
+## Vue 비동기 업데이트 큐(Async update queue)
 
 Vue는 비동기적으로 DOM 업데이트를 수행합니다.<br>
 이 말이 의미하는 바를 비동기 업데이트 큐를 사용하지 않은 아래의 일반적인 케이스를 통해 설명하겠습니다.<br>
