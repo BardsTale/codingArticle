@@ -14,7 +14,7 @@ SFC 파일 명명 규칙은  여섯 가지입니다.
 
 ![image](https://github.com/BardsTale/vue_guide/assets/62861679/cc402846-d602-460b-b216-de30bd0c4332)
 
-> **첫 번째**, 컴포넌트 이름은 Root 컴포넌트인 App과 Vue에서 제공하는 내장 컴포넌트(**<transition>**, **<component>** 등)를 제외하곤<br>항상 두 단어 이상의 합성어를 사용합니다.<br>
+> **첫 번째**, 컴포넌트 이름은 Root 컴포넌트인 App과 Vue에서 제공하는 내장 컴포넌트(```<transition>, <component>``` 등)를 제외하곤<br>항상 두 단어 이상의 합성어를 사용합니다.<br>
 모든 HTML 엘리먼트의 이름은 한 단어이기 때문에 합성어를 사용하는 것은 기존 그리고 향후 HTML 엘리먼트와의 충돌을 방지하고 Vue 컴포넌트를 명확히 구분할 수 있습니다.<br>
 <br>
 
